@@ -2,6 +2,9 @@
 
 Proyecto de procesamiento de lenguaje natural con tres tareas: clasificación de reseñas, reconocimiento de entidades nombradas (NER) y traducción automática de chino a español. Se parte de modelos Transformer preentrenados y se realiza **fine-tuning supervisado** para cada tarea.
 
+## Video Sustentación
+[Video](https://www.youtube.com/watch?v=N5RuvD1j6IA)
+
 ## Problemas y modelos
 
 | Tarea                   | Dataset                                                                            | Modelo base                                                                   | Entrada → salida                                 |
